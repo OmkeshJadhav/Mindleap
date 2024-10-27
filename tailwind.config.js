@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        "primary": ["Poppins", "sans-serif"],
-        "secondary": ["Syne", "sans-serif"]
+        "primary": ["Roboto", "sans-serif"],  // poppins
+        "secondary": ["Open Sans", "sans-serif"]  // syne
       },
       colors: {
         "heroBg": "#0e1122",
